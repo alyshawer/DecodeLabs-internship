@@ -10,6 +10,7 @@ responses = {
     "hi":           "Hi! Great to see you. What's on your mind?",
     "hey":          "Hey! I'm online and ready. What do you need?",
     "how are you":  "I'm running at 100% efficiency. Thanks for asking!",
+    "how do you do": "I'm good. Thanks for asking!",
     "what is ai":   "AI is the simulation of human intelligence by machines using logic, data, and learning.",
     "what can you do": "I can answer basic questions using rule-based logic. Ask me anything!",
     "who made you": "I was built by an AI Engineering intern at DecodeLabs as part of Project 1.",
